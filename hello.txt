@@ -2,3 +2,4 @@ Hello, World!
 
 How are you ? 
 Good!
+What about your friend?
